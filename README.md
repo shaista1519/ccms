@@ -1,12 +1,13 @@
 # ccms
-Court Case Managemanet System
+Court Case Management System
 
 ## Contribution Guidelines
-Fork the repository
-create a different branch with resonable name
-push the code to that branch
-while creating the pull request give proper explanation of what you had done with output screenshot demonstration
-to make things eaisly understandable
+- Fork the repository.
+- Create a different branch with resonable name.
+- Push the code to that branch.
+- While creating the pull request give proper explanation of what you had done with output screenshot demonstration
+to make things easily understandable.
 
 ## Coding Guidelines
-Use proper comments wherever required to make it eaisly understandable
+- Use proper comments wherever required to make it eaisly understandable.
+- Give proper understandable messages of what you have done in that commit. 
