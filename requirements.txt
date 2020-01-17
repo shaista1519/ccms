@@ -6,3 +6,10 @@ flask_sqlalchemy
 requests
 Flask-SocketIO
 Flask-WTF
+HTML 5
+CSS 
+BOOTSTRAP-4
+Jquery
+vanilla.js
+javascript
+FontAwesome
