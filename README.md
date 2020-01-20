@@ -10,6 +10,7 @@ Court Case Management System
 ## Contribution Steps:
 - Clone the fork of this repository by running the command ```git clone https://github.com/<your_github_username>/ccms.git```.
 - Create a new branch in your forked repository by running the command ```git branch <branch_name>```.
+- Switch to that branch using the command ```git checkout <branch_name>```.
 - Make neccessary changes needed and commit those changes to that branch, by running the commands ```git add <filename>``` and ```git commit -m "<message>"```.
 - Push the changes to Github by running the command ```git push -u origin <branch_name>```
 - File a Pull Request by comparing the master-branch of the main repository and the branch of your forked repository. 
