@@ -3,6 +3,22 @@
 {% block title  %}
 {% endblock %}
 
+{% block scripts %}
+<style>
+  @media (min-width: 500px){
+    #facility-list{
+      margin-left: 30%;
+      
+    }
+  }
+  @media (max-width: 499px) {
+    #facility-list{
+      margin-left: 10%;
+    }
+  }
+</style>
+{% endblock %}
+
 {% block body %}
 <div class="jumbotron jumbotron-fluid px-0 mt-5">
   <div class="container">
@@ -22,7 +38,7 @@
     </div>
   </div>
   <hr/>
-  <div style="margin-left: 30%;">
+  <div id="facility-list">
     <div class="row">
       <div class="col-sm">
         <li><b>Standarlize</b> day to day operations making your workday smoother.</li>
